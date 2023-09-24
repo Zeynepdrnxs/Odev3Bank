@@ -10,8 +10,8 @@ namespace Odev3Bank
             CustomerManager customerManager = new CustomerManager();
 
             // Adding customers
-            Customer customer1 = new Customer(1, "John", "Doe");
-            Customer customer2 = new Customer(2, "Jane", "Smith");
+            Customer customer1 = new Customer(1, "Zeynep", "DURNA");
+            Customer customer2 = new Customer(2, "Dodo", "ISLER");
 
             customerManager.AddCustomer(customer1);
             customerManager.AddCustomer(customer2);
